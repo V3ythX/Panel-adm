@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "THNAz7t0m/4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\234234\\courseWork2\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
